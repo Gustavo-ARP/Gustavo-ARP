@@ -18,6 +18,6 @@
   ##
   <div class="icones">
     <div class="css"><img width="64px" align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></div>
-    <div class="html"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw3rPpQhYZ92i2o99TbZuu54&ust=1687537989652000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCI6oSn1_8CFQAAAAAdAAAAABAE" /></div>
+    <div class="html"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> /></div>
   </div>
  
