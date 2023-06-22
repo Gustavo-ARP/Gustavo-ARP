@@ -16,8 +16,8 @@
 </div>
   
   ##
-  <div class="icones">
-    <div display="inline" class="css"><img width="64px" align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></div>
+  <div class="icones" justify-content="center">
+    <div class="css"><img width="64px" align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></div>
    
    <div class="html"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></div>
   </div>
