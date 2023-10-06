@@ -7,7 +7,7 @@
 
 
 ## ***Sobre mim***
- - 💻 Estudante de desenvolvimento front-end: HTML, CSS e javascript
+ - 💻 Estudante de desenvolvimento front-end: HTML, CSS e javascript. Também estudando Solidity e aprendendo sobre blockchain e Ethereun
 
 <div align="center">
   <a href="https://github.com/Gustavo-ARP">
