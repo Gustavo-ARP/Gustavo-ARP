@@ -7,7 +7,7 @@
 
 
 ## ***Sobre mim***
- - 💻 Estudante de desenvolvimento front-end: HTML, CSS e javascript. Também estudando Solidity e aprendendo sobre blockchain e Ethereun
+ - 💻 Estudante de desenvolvimento front-end: HTML, CSS e Javascript.
 
 <div align="center">
   <a href="https://github.com/Gustavo-ARP">
@@ -20,10 +20,11 @@
    <div class="html"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></div>
    <div class="css"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></div>
 </div>
+
   ##
   Contato:
 <div class="contato">
-   <a href="https://www.linkedin.com/in/gustavo-alves-481634268/" target="blank"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+   <a href="https://www.linkedin.com/in/gustavo-alves-481634268/" target="_blank"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
 
  
