@@ -16,11 +16,14 @@
 </div>
   
   ##
-  <div class="icones">
-    <div class="css"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></div>
-   
+<div class="icones">
    <div class="html"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></div>
-  </div>
+   <div class="css"><img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></div>
+</div>
+
+<div class="contato">
+   <a href="https://www.linkedin.com/in/gustavo-alves-481634268/"> <img width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+</div>
 
  
  
